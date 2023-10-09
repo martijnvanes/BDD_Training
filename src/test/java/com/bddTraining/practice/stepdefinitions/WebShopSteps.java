@@ -4,7 +4,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class webShopSteps {
+public class WebShopSteps {
     @Given("I am a user in the webshop")
         public void iMAUserInTheWebshop() {
         System.out.println("Blabla");

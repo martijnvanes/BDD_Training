@@ -13,7 +13,17 @@
         <maven.compiler.target>15</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
+    <developers>
+    <developer>
+        <name>Marc the player Miedema</name>
+    </developer>
+        <developer>
+            <name>Mats meister van den Broek</name>
+        </developer>
+        <developer>
+            <name>Martijn nerdienerd van Es</name>
+        </developer>
+    </developers>
     <dependencies>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
